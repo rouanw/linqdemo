@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqDemo", "LinqDemo\LinqDemo.csproj", "{89C38F9D-77E6-47B2-8A35-85B40C9C0B4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqDemo.Tests", "LinqDemo.Tests\LinqDemo.Tests.csproj", "{D09D9346-9E96-4DC0-8C4D-2F6599894299}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89C38F9D-77E6-47B2-8A35-85B40C9C0B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89C38F9D-77E6-47B2-8A35-85B40C9C0B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89C38F9D-77E6-47B2-8A35-85B40C9C0B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89C38F9D-77E6-47B2-8A35-85B40C9C0B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D09D9346-9E96-4DC0-8C4D-2F6599894299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D09D9346-9E96-4DC0-8C4D-2F6599894299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D09D9346-9E96-4DC0-8C4D-2F6599894299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D09D9346-9E96-4DC0-8C4D-2F6599894299}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
